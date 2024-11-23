@@ -1,0 +1,14 @@
+***Components needed in the project***
+MOSFET: IRLZ44N *1
+resistor: 
+10K *2
+1k *3
+100k *1
+resistor shunt: 0.5ohm 1W
+capacitor:
+10uf *2
+0.1uf *1
+1uf *1
+diode: 1N4007 *1
+diode zener: 5V *1
+adapter 5V *1
